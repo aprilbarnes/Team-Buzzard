@@ -1,4 +1,4 @@
-# Team Team Magpie Small Group project
+# Team Buzzard
 
 ## Team members
 The members of the team are:
